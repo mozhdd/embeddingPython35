@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\евгений\documents\visual studio 2015\projects\embeddingpython35\embeddingpython35\main.cpp(69): warning C4101: pArgs: неиспользованная локальная переменная
+c:\users\евгений\documents\visual studio 2015\projects\embeddingpython35\embeddingpython35\main.cpp(107): warning C4101: pArgs: неиспользованная локальная переменная
+  embeddingPython35.vcxproj -> C:\Users\Евгений\Documents\Visual Studio 2015\Projects\embeddingPython35\Debug\embeddingPython35.exe
