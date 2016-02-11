@@ -1,10 +1,5 @@
-//Python35
-//for x32
-//can load script from my cathalog
-//cant pass c++ array to python script
+// x32
 
-//to use methonds many times, have to mention "import_array()"
-//to this we have to use "Py_Initialize()"
 
 #define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION	
 #ifdef _DEBUG
