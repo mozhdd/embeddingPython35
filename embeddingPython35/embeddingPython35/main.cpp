@@ -136,7 +136,6 @@ void print(double* arr, int len)
 	cout << endl;
 }
 
-
 int main(int argc, char *argv[])
 {
 	int len = 5;
