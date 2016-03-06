@@ -1,4 +1,3 @@
 ﻿  main.cpp
 d:\git-project\embeddingpython35\embeddingpython35\main.cpp(64): warning C4101: pArgs: неиспользованная локальная переменная
-d:\git-project\embeddingpython35\embeddingpython35\main.cpp(102): warning C4101: pArgs: неиспользованная локальная переменная
   embeddingPython35.vcxproj -> D:\Git-project\embeddingPython35\Debug\embeddingPython35.exe
